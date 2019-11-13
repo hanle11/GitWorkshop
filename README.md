@@ -17,6 +17,7 @@ cd GitWorkshop
 Open the file "mainn.html" via any code editor, and change the paragraph that has your assigned number.
 
 ### Commit your code
+For the next step, you may need to create an access token: https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
 ```
 git add .
 git commit -m "this is my first commit"
